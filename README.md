@@ -1,7 +1,7 @@
 # Hello World, I'm Robert Mancini.
-I am currently in my 3rd year at Rochester Institute of Technology, working towards a bachelor's degree in imaging science.
+I am currently in my 4th year at Rochester Institute of Technology, working towards a bachelor's degree in imaging science.
 
-I am most familiar with Python and C++, but I have worked with a small amount of Java in the past.
+I am most familiar with Python, C++, and MatLab, but I have worked with a small amount of Java in the past.
 
 ## Contact me
 ### Email
